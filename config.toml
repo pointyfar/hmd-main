@@ -15,11 +15,6 @@ title = "My New Hugo Site"
     target="content/animals"
     
 
-[[module.mounts]]
-    source = "hmd-private"
-    target = "content/private"
-    
-
 [[module.imports]]
   path = "github.com/pointyfar/hmd-theme"
   disable = false
