@@ -1,0 +1,3 @@
+[submodule "hmd-private"]
+	path = hmd-private
+	url = git@pointy-github.com:pointyfar/hmd-private
