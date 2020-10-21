@@ -1,4 +1,4 @@
-baseURL = "http://brave-yalow-9c02d4.netlify.app/"
+baseURL = "https://brave-yalow-9c02d4.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
