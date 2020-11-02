@@ -2,6 +2,13 @@ baseURL = "https://brave-yalow-9c02d4.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
+[params]
+test = "foo"
+
+[params.bar]
+  baz = "lorem"
+
+
 [module]
 
 [[module.imports]]
@@ -25,3 +32,43 @@ title = "My New Hugo Site"
   [[module.imports.mounts]]
     source = "."
     target = "assets/bulma"
+
+
+[[module.imports]]
+  path = "github.com/sindresorhus/modern-normalize"
+  disable = false
+  [[module.imports.mounts]]
+    source = "."
+    target = "assets/scss"
+
+[[module.mounts]]
+    source = "content"
+    target = "content"
+
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+
+  [[module.mounts]]
+    source = "data"
+    target = "data"
+
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+
+  [[module.mounts]]
+    source = "i18n"
+    target = "i18n"
+
+  [[module.mounts]]
+    source = "archetypes"
+    target = "archetypes"
+
+  [[module.mounts]]
+    source = "./node_modules/particles.js/"
+    target = "static/particles.js/"

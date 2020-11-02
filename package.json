@@ -1,0 +1,11 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@pointy-github.com:pointyfar/hmd-main.git",
+  "author": "Pointy <pointyfar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  }
+}

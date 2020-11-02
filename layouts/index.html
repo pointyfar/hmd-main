@@ -1,6 +1,12 @@
 {{ define "main"}}
 <h1>{{.Title}}</h1>
 <hr>
+site.Params: <br>
+{{ site.Params }}
+<hr>
+.Params: <br>
+{{ .Params }}
+<hr>
 Pages: 
 <ul>
 {{ range site.RegularPages }}
@@ -10,4 +16,6 @@ Pages:
 <hr>
 {{.Content}}
 <hr>
+
+<script src="particles.js/particles.js"></script>
 {{ end }}
