@@ -1,3 +1,4 @@
+github.com/FortAwesome/Font-Awesome v4.7.0+incompatible/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
 github.com/feathericons/feather v4.28.0+incompatible/go.mod h1:+F8Ba9cmRHWu0pOVoZtid0iwkNJ8hr959HyPwj3hsRg=
 github.com/jgthms/bulma v0.0.0-20200220210858-962f454b3229 h1:9Lr3PId2wPLeClQ8hEDiqECwC5vruA2rgFyhOGcb7eY=
 github.com/jgthms/bulma v0.0.0-20200220210858-962f454b3229/go.mod h1:89FLBKXYFKfOKAoDeUT26V0pHGwzr205cMXAEqtAVOI=
@@ -11,5 +12,8 @@ github.com/pointyfar/hmd-theme v1.0.2 h1:dXlwH2Fv9g1WZRYYpiVRHDml3Uaikf8BOag7wKq
 github.com/pointyfar/hmd-theme v1.0.2/go.mod h1:z8aPfDeNbTiqFowT0G+TcpN/NLvF0hbBxA4i+htOYjc=
 github.com/pointyfar/hmd-theme v1.0.3 h1:nsmGO1CN8NEEW9NYKJ898EBC+jdBu6DmL85s3ThZ7AQ=
 github.com/pointyfar/hmd-theme v1.0.3/go.mod h1:z8aPfDeNbTiqFowT0G+TcpN/NLvF0hbBxA4i+htOYjc=
+github.com/pointyfar/hmd-theme v1.0.4 h1:sJuPJ9BVjWw3bG4dGB2Ef1XZPFbidc0trU7+KTMJr0g=
+github.com/pointyfar/hmd-theme v1.0.4/go.mod h1:H5nVZUJlBDHNBqGvJEpwt366qP48fjjsHk4ExyT4VnY=
 github.com/sindresorhus/modern-normalize v1.0.0 h1:oPBq3EYTA4U42HYs4nRq9PoTRB3RLM7xzqmUP+S8TOk=
 github.com/sindresorhus/modern-normalize v1.0.0/go.mod h1:3C79aOaTh2aoI/UR3dMMFq/zcdW6ElKzLd5cDS9TKkQ=
+github.com/twbs/icons v1.4.0/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
