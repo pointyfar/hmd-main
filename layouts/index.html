@@ -1,4 +1,8 @@
 {{ define "main"}}
+{{ $twbs := resources.Get "twbs/icons/icons/check.svg" }}
+<h2>twbs icon called from top mod: {{ $twbs.Content | safeHTML }}
+</h2>
+
 <h1>{{.Title}}</h1>
 <hr>
 site.Params: <br>
